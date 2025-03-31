@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left">Hello World! My name is Bryan I am a junior developer and I work at Solution techSys</h2>
+<h2 align="left">Hello World! My name is Bryan I am a junior developer 💻</h2>
 
 ###
 
